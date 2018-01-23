@@ -1,0 +1,6 @@
+bottle (0.12.13)
+pip (9.0.1)
+py2exe (0.9.2.2)
+pythonnet (2.3.0)
+pywebview (1.8)
+setuptools (28.8.0)
